@@ -2,7 +2,7 @@
 
 Have you ever seen or used [Google Smart Reply](https://firebase.google.com/docs/ml-kit/generate-smart-replies)? It's a service that provides automatic reply suggestions for user messages. See below.
 
-<img src="https://udelabs.com/wp-content/uploads/2019/04/post_thumbnail-3.png">
+<img src="https://www.androidpolice.com/wp-content/uploads/2018/06/Screenshot_20180605-110446-1.png" height=700>
 
 This is another name of the retrieval based chatbot, which is an important real life application, I think.
 Let's build a simple message reply suggestion system.
